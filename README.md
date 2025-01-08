@@ -123,5 +123,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 If you have any questions or suggestions, feel free to contact me:
 - **Email**: helmysmp@gmail.com
-- **GitHub**: ([https://github.com/your-username](https://github.com/satriahelmy/))
+- **GitHub**: ([https://github.com/satriahelmy](https://github.com/satriahelmy/))
 
